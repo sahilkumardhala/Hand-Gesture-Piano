@@ -60,7 +60,7 @@ To set up the Hand-Gesture-Piano project, follow these steps:
 1. Run the application:
 
    ```bash
-   python hand_gesture_piano.py
+   python main.py
    ```
 
 2. Position your hand in front of the camera and start playing music by moving your fingers.
@@ -98,5 +98,3 @@ For more information or if you have any questions or suggestions, feel free to r
 
 We appreciate your interest in the Hand-Gesture-Piano project and look forward to your contributions and feedback.
 ```
-
-Please replace `[MIT]` with the actual license you're using for your project and add any specific details or instructions related to your project as needed.
