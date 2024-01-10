@@ -96,7 +96,7 @@ def display_video():
                 playkeys(button)
 
         img = cv2.cvtColor(img, cv2.COLOR_RGB2BGR)
-        cv2.imshow("image", img)
+        cv2.imshow("Hand Gesture Piano", img)
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
 
