@@ -1,3 +1,4 @@
+![](https://github.com/sahilkumardhala/Hand-Gesture-Piano/blob/main/Hand%20Gesture%20Piano.avif)
 # Hand-Gesture-Piano
 
 Hand-Gesture-Piano is a unique and innovative project that brings the world of music and technology together. It offers a novel way to create and play music using just your hands and a camera. This project utilizes computer vision and machine learning to detect and interpret hand gestures, transforming them into musical notes on a virtual piano interface.
